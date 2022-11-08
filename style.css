@@ -16,10 +16,14 @@ cursor: pointer;
 
 .exemplo1{
     background-color: blue;
+    position: absolute;
+    right: 0;
     }
 
 .exemplo2{
     background-color: red;
+    position: absolute;
+    left: 50%;
 }
 
 .exemplofinal{
