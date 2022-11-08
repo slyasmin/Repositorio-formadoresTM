@@ -34,12 +34,12 @@ cursor: pointer;
 }
 
 .exemplointerno{
-    position: absolute;
-    transform: translate(-50%, -50%);
     width: 100px;
     height: 100px;
     line-height: 100px;
     background-color: yellow;
+    position: absolute;
+    transform: translate(50%, 50%);
 }
 
 
