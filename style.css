@@ -29,10 +29,12 @@ cursor: pointer;
 }
 
 .exemplofinal{
+    position: relative;
     background-color: green;
 }
 
 .exemplointerno{
+    position: absolute;
     width: 100px;
     height: 100px;
     line-height: 100px;
